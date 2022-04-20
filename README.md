@@ -12,12 +12,10 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+I used Visual Studio Code with Python 3.10
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
+* [W3 Schools](https://www.w3schools.com/)
 * [Web Site Name](http://url.link.goes.here)
