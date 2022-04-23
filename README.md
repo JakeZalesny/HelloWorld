@@ -2,7 +2,7 @@
 
 This program is meant to display the words "Hello World" on the user's screen. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/1E9uS3fIHmQ)
 
 # Development Environment
 
