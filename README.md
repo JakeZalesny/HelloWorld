@@ -12,4 +12,4 @@ I used Visual Studio Code with Python 3.10
 
 {Make a list of websites that you found helpful in this project}
 * [W3 Schools](https://www.w3schools.com/)
-* [Web Site Name](http://url.link.goes.here)
+* [Stack Overflow](https://stackoverflow.com/)
